@@ -1,0 +1,65 @@
+body  { background: #000 ; background-color:#000; }
+textarea { height:100px; width:100%; }
+fieldset { margin-bottom:20px; border:1px solid #999;}
+legend { padding: 0.4em 0.6em; border:1px solid #999; font-weight:bold; text-align:right; }
+
+
+#content { width: 1062px; }
+#sidebar { float: left; width: 200px; font-size: 12px;}
+#sidebar ul {margin: 0; padding: 0; line-height: normal; list-style-type: none; text-align: left; }
+#sidebar li { margin-bottom: 30px; padding: 0 0 0 0;}
+#sidebar li ul { list-style-type: none;  list-style-position:inside; margin: 0px 10px; padding: 0; margin-left: 1em;}
+#sidebar li li { background-image: url('../images/bullet.jpg'); background-repeat: no-repeat; background-position: 0.7em 1.1em; margin: 0;	padding-left: .5em; padding-top: .8em;padding-bottom:10px; border-bottom: 1px solid #6389cf;}
+#sidebar li li a {padding: 0 0 0 20px; font-weight: normal; color: #6389cf;}
+#sidebar li li a:hover {color: #112446; cursor:auto;}
+#sidebar li li:hover { cursor:pointer; background-color:#26406f; background-image: url('../images/bullet_hov.jpg');}
+
+#sidebar p { margin: 0; padding: 0px 14px;}
+#sidebar h2 { height: 30px; margin: 0 0 5px 0px; padding: 6px 0 2px 14px; font-size: 18px; font-weight: normal; color: #6389cf;}
+#sidebar p { line-height: 200%;}
+#sidebar a { text-align: left; text-decoration: none; font-weight: bold;}
+
+#logo { width: 0; height: 0; margin: 0 auto; padding-left:0; margin-top:0; }
+.footer { width: 100%; height: 100px; margin: 0 auto; background: #112446; border-top: 0; }
+#menu { height:0px; border:0px;}
+
+
+table.input td { vertical-align:top;}
+
+/* group editing */
+div#group_list {
+}
+
+div#message {
+        display: none;
+        margin: 0 0 10px 0;
+        color: #fff;
+        background: #008C00;
+        border: 1px solid #ddd;
+        padding: 5px;
+    }
+
+/* deactivate link */
+div#group_list a.group_active,
+div#group_list a.group_active:visited,
+div#group_list a.group_active:active {
+    color: #CC0000;
+}
+
+/* activate link */
+div#group_list a.group_deactive
+div#group_list a.group_deactive:visited,
+div#group_list a.group_deactive:active {
+    color: #008C00;
+}
+
+#donate {
+	float: right;
+	display: block;
+	width: 150px;
+	border: 1px solid #ddd;
+	text-align: center;
+	padding: 8px 0px 8px 0px;
+}
+#donate form { margin: 0px; padding: 0px; }
+#donate h3 { margin: 0px 0px 6px 0px; padding: 0px; }
