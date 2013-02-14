@@ -22,7 +22,12 @@ This theme has a modified browse view (using modifications from sinfuljosh) to e
 
 If you like my work, feel free to donate.
 
-<a href=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZHE9MVUM3VLBQ>DONATE via Paypal</a>
+<a href=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZHE9MVUM3VLBQ>DONATE via Paypal</a><br>
+-or-<br>
+<a href="bitcoin:1BLnyEmkfHrnrtwAgkE217KUCaWc2Euij6?label=Github%20NNtemplate%20donations"><br>
+<img src="http://i.imgur.com/bhIVa8Ss.png"><br>Donate Bitcoin to <br>
+1BLnyEmkfHrnrtwAgkE217KUCaWc2Euij6
+</a>
 
 ------------
 Cheers
